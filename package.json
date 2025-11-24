@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-day-1",
+  "version": "1.0.0",
+  "description": "Nodejs Day 1",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Rupan",
+  "license": "ISC",
+  "type": "module"
+}
